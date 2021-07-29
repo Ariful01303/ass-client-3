@@ -1,0 +1,69 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+    overflow-x: hidden;
+}
+/* navbar  */
+.honda-header-bg{
+   background:#264653;
+   margin-bottom: 64px;
+   
+}
+.honda-title{
+    font-size: 36px;
+}
+.p-text{
+    color: #E0E0E0;
+    margin-top: 18px;
+    margin-bottom: 21px;
+    
+}
+.honda-btn{
+ background: #E76F51;
+ color: #FFFFFF;
+ 
+}
+
+.detail-text{
+    color: #E76F51;
+}
+/* honda show  */
+.honda-margin{
+    margin-bottom: 120px;
+    
+}
+.black-white img{
+    filter:grayscale(100%);
+}
+/* happy clints section  */
+.margine-sec-cls{
+    margin-top: 165px;
+}
+.client-padding{
+    padding: 40px 35px;
+}
+.fa-star.star-bg{
+   color:#E77C40 ;
+}
+.fa-star.empty-bg{
+    color:#E77C40;
+}
+.client-img{
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+.client-margin{
+    margin-bottom: 52px;
+}
+/* Fequency question  */
+.question-margin{
+    
+    margin-top: 159px;
+    margin-bottom: 112px;
+    font-size: 36px;
+}
+
+
+.text-faq{
+    color: #7E848C;
+}
