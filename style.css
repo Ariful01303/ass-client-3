@@ -1,15 +1,19 @@
 body{
     font-family: 'Poppins', sans-serif; 
-    overflow-x: hidden;
+    
 }
 /* navbar  */
+header{
+    overflow-x: hidden;
+}
 .honda-header-bg{
    background:#264653;
+   width: 100%;
    margin-bottom: 64px;
    
 }
 .honda-title{
-    font-size: 36px;
+    font-size: 48px;
 }
 .p-text{
     color: #E0E0E0;
@@ -22,11 +26,13 @@ body{
  color: #FFFFFF;
  
 }
-
 .detail-text{
     color: #E76F51;
 }
 /* honda show  */
+main{
+    overflow-x: hidden;
+}
 .honda-margin{
     margin-bottom: 120px;
     
